@@ -13,5 +13,5 @@ This was a project to design my own nozzle blower for my SnapMaker Original. It 
 
 ## Printer settings
 
-This should be printed with a somewhat large infill, since the little nobs on the back of the main holder, can easily snap if they are not solid enough.
+This should be printed with a somewhat large infill, since the nozzle blower part itself can have some problems with bridgeing.
 The config can be found under "Printing Config"
