@@ -8,7 +8,7 @@ This was a project to design my own nozzle blower for my SnapMaker Original. It 
 ## Parts
 | ![Image not found!](https://dub01pap001files.storage.live.com/y4m4d3zWgwlPw22FhRIMQoBkDEvCIRA2YNd52LNt68tLOKWfyXJVPEZiXDihuxM4OyG39I9GK3yT9qFQPrDTlE4oAbkKph2yqR6amEvaveuhVjefJUETiZOQ0thYt1KX3C9C814-zhCQsh1F2SKDU16wmWsAvj86rf7DCuoe2xy-kUbeisIen75oLn8CyQoUHFn?width=1066&height=620&cropmode=none) | ![Image not found!](https://dub01pap001files.storage.live.com/y4mWbAfV_8yQh1EmFjU6HRNGxrAQ78YgDfRpsrA37ivZ-ZSVhLq7ASrIb1ciJ-k2E-7R2e_odyHuaCv2JoiWgBQ3f46_gsFZ4R6NoYoMmRcHwPtpW2U9N4jxjUHdcBAIX93KBD7Ka_5s8vIGGm_t3UfR64Dp_jh2l9wrunX-q710Knjnd3hepRD02foFb6tH_wm?width=703&height=600&cropmode=none) | ![Image not found!](https://dub01pap001files.storage.live.com/y4mUV7Et8U2kSawqmITtmh5t3L8fTja1x-u5S28LcMdBrdIlmxPrTh_U4nfuJMEgM13SVA05DV43RSgW0rxqdG3omTgLBL8bQoRgQ-BUnwAA9edvmGAv-98x2nJnjsQ80XOOaKjK1guKZmx3tC1YjIzwSFmYHPLm1hobm2XzAiuCLz64_brVGTWWv3iF9J4n7Ad?width=667&height=447&cropmode=none) |
 |:---:|:---:|:---:|
-| *Blower* | *Fan mount* | *Seal* |
+| *Blower* | *Fan mount* | *Seal(!)* |
 
 ## Printer settings
 
@@ -22,3 +22,5 @@ General config:
 | Layer Height |0.2mm |
 | Top Thickness |0.8mm |
 | Infil |50%-80% |
+
+*!) i printed this part in rubber fillament, but it should also work without*
