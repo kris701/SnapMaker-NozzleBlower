@@ -14,3 +14,11 @@ This was a project to design my own nozzle blower for my SnapMaker Original. It 
 
 This should be printed with a somewhat large infill, since the nozzle blower part itself can have some problems with bridgeing.
 The config can be found under "Printing Config"
+
+General config:
+
+|Setting|Value|
+|:---:|:---:|
+| Layer Height |0.2mm |
+| Top Thickness |0.8mm |
+| Infil |50%-80% |
